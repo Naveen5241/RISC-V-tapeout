@@ -70,6 +70,6 @@ $ sudo apt install gtkwave
 
 <div align="center">
     
-![Alt Text](SS/3.png)
+![Alt Text](SS/1.png)
 
 </div>
