@@ -5,7 +5,7 @@
 
 ## Tool Setup & Installation Guide
 ### System Requirements
-- 6 GB RAM
+- 8 GB RAM
 - 50 GB HDD
 - Ubuntu 20.04.06
 - 4 vCPU
