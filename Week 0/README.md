@@ -39,7 +39,7 @@ $ sudo make install
 
 <div align="center">
     
-![Alt Text](Clicks/Yosys.png)
+![Alt Text](SS/3.png)
 
 </div>
 
@@ -55,7 +55,7 @@ $ sudo apt-get install iverilog
 
 <div align="center">
     
-![Alt Text](Clicks/iverilog.png)
+![Alt Text](SS/2.png)
 
 </div>
 
@@ -70,6 +70,6 @@ $ sudo apt install gtkwave
 
 <div align="center">
     
-![Alt Text](Clicks/Gtkwave.png)
+![Alt Text](SS/3.png)
 
 </div>
