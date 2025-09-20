@@ -13,7 +13,7 @@
 ## Tool Installation & Verification
 ### 1.Yosys Installation
 
-bash
+``` bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
@@ -23,7 +23,7 @@ $ sudo apt-get install build-essential clang bison flex \
     graphviz xdot pkg-config python3 libboost-system-dev \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
 $ make config-gcc
-
+```
 
 
 Initialize the required Git submodule (abc) before building
